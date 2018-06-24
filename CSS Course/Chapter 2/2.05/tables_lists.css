@@ -1,0 +1,31 @@
+#table_style{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: beige;  
+}
+#table_style th{
+    border: 1px solid black;
+    padding: 10px;
+    color: navy;
+}
+#table_style td{
+    border: 1px solid black;
+    padding: 20px;
+    color: green;
+}
+#ul_1{
+    list-style-position: outside;
+    list-style-type: circle;
+}
+#ul_2{
+    list-style-position: outside;
+    list-style-type: circle;
+}  
+#ol_1{
+    list-style-position: inside;
+    list-style-type: upper-roman;
+}
+#ol_2{
+    list-style-position: inside;
+    list-style-type: upper-roman;
+}
