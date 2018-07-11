@@ -1,0 +1,18 @@
+a.button{
+    height: 30px;
+    background-color: transparent;
+    background-image: url("images/button_right_blue.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    float: left;
+    display: block;
+    padding-right: 10px;
+}
+a.button span{
+    background-color: transparent;
+    background-image: url("images/button_left_blue.png");
+    line-height: 20px;
+    display: block;
+    padding: 5px 0px 5px 10px;
+}
+

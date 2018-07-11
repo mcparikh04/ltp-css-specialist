@@ -1,0 +1,34 @@
+h1{
+    font-family: 'Merriweather', serif;
+}
+body{
+    background-image: url(107647-200.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50% 100%;
+
+}
+
+ul{
+    list-style-type: square;
+}
+#my_menu .submenu ul{
+    display: none;
+    background-color: chocolate;
+    border-left: 3px solid grey;
+    border-right: 3px solid grey;
+    border-bottom: 3px solid grey;
+    list-style-type: none;
+    margin-top: none;
+    
+    
+}
+#my_menu .submenu:hover ul{
+    display: block;
+    font-size: 15px;
+
+}
+#my_menu{
+    font-size: 20px;
+    background-color: cadetblue;
+}
