@@ -1,0 +1,21 @@
+.small-box{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border: none;
+    display: block;
+}
+#pic1{
+    padding-bottom: 20px;
+}
+#pic2{
+    padding-top: 20px;
+}
+#pic3{
+    margin-bottom: 20px;
+}
+#pic4{
+    margin-top: 20px;
+}
+body{
+    margin: 0 0 0 0;
+}
